@@ -1,1 +1,0 @@
-A simple bank account program used to demonstrate OOP in Python.
